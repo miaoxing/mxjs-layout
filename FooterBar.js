@@ -1,6 +1,12 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 class FooterBar extends React.Component {
+  static propTypes = {
+    height: PropTypes.number,
+    children: PropTypes.node,
+  };
+
   render() {
     return <div className="footer-bar footer-bar-fluid d-flex">
       <style>
