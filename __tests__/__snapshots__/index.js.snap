@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test basic 1`] = `
+<div>
+  <div
+    class="footer-bar footer-bar-fluid d-flex"
+  >
+    <style>
+      
+        body {
+            margin-bottom: 58px;
+        }
+        
+    </style>
+  </div>
+</div>
+`;
