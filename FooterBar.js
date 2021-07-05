@@ -1,7 +1,7 @@
-import React from 'react';
+import { Component } from 'react';
 import PropTypes from 'prop-types';
 
-class FooterBar extends React.Component {
+class FooterBar extends Component {
   static propTypes = {
     height: PropTypes.number,
     children: PropTypes.node,
