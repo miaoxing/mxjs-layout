@@ -1,3 +1,10 @@
+## [0.2.13](https://github.com/miaoxing/mxjs-layout/compare/v0.2.12...v0.2.13) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([82e5a45](https://github.com/miaoxing/mxjs-layout/commit/82e5a458cf15851b9e867481e949de2a651923b0))
+
 ## [0.2.12](https://github.com/miaoxing/mxjs-layout/compare/v0.2.11...v0.2.12) (2024-01-08)
 
 
